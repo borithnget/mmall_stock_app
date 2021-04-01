@@ -1,0 +1,1 @@
+# mmall_stock_app
